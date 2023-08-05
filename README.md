@@ -1,1 +1,1 @@
-# jest-esm-example
+# jest-esm-typescript-example
