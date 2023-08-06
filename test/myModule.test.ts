@@ -16,7 +16,7 @@ describe('multiply', () => {
 describe('result', () => {
   it('should be some value', async () => {
     let results = await result();
-    console.log(results)
+    //console.log(results)
     expect(results)
   });
 });
