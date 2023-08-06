@@ -1,4 +1,4 @@
-import {getResponse} from "./index.js";
+import {getResponse} from "./nodefetchtest.js";
 // src/myModule.ts
 export const add = (a: number, b: number): number => a + b;
 export const multiply = (a: number, b: number): number => a * b;
